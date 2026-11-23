@@ -1,2 +1,0 @@
-# Keerthana
-C programming 
